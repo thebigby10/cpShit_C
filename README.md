@@ -1,2 +1,2 @@
 # cpShit_C
-Storing my C codes for cp. 
+Storing my C codes of cp. 
